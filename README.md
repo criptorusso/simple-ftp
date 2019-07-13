@@ -1,6 +1,6 @@
 # simple-ftp
 
-Implementation in Java for a SImple FTP (server and client)
+Implementation in Java for a Simple FTP (server and client)
 
 * include code for server and client
 * the port in the server side is 5972
